@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "repl_python3_hackathon"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyfiglet = "^0.8.post1"
+countryinfo = "^0.1.2"
+joke-generator = "^1.0.1"
+pyjokes = "^0.6.0"
+axju-jokes = "^1.0.3"
+news-fetch = "^0.2.8"
+py8fact = "^0.1.1"
+pandas = "^1.3.0"
+inline = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
