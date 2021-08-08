@@ -21,5 +21,5 @@ We learned a lot of new things, like we were not much comfortable with replit bu
 What's next for ULTIMATE TRAVEL BUDDY
 For now, we have focused on the back-end part by adding more options and integrity. Next, we aim to improve the UI for this project and to make it more user interactive.
 
-Please see all attached photos for understanding all the features easily
+Please see all attached photos for understanding all the features easily.
 TRY OUT LINK AND CODE HERE :- https://replit.com/@BONVOYAGE/hackathon
